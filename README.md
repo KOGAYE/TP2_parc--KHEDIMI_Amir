@@ -18,7 +18,7 @@
 🌞 Afficher l'heure et la date
 ```bash
 [kogaye@node1 ~]$ date "+%D %T"
-02/10/24 17:40:35
+30/12/24 18:36:25
 ```
 🌞 Afficher la version de l'OS précise
 ```bash
